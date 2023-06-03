@@ -1,0 +1,9 @@
+.pokemon{
+    height: 200px;
+}
+
+table, th, td{
+    border:3px solid var(--contrast);
+    border-collapse: collapse;
+
+}

@@ -1,0 +1,44 @@
+
+
+.medallas {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 40px;
+
+}
+
+    #medalla{
+        width: 70px;
+    }
+
+body{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--secondary);
+    color: var(--primary);
+}
+
+a{
+    text-decoration: none;
+  
+
+}
+
+H1{
+    color: var(--info);
+}
+H2{
+    color: var(--info);
+}
+H3{
+    color: var(--info);
+}
+
+:root {
+    --primary: #3c486b;
+    --secondary: #FFFFFF;
+    --info:  #F45050;
+    --contrast: #F9D949;
+}
+

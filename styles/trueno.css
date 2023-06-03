@@ -1,0 +1,11 @@
+body {
+    background-image: url(/assets/papas.jpeg);
+    background-repeat: roundt;
+    font-family: 'Roboto Mono', monospace;
+  }
+
+  div{
+    background: white;
+    text-align: left;
+    opacity: 80%;
+  }

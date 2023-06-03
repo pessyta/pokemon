@@ -1,0 +1,17 @@
+
+body{
+    font-family: 'Indie Flower', cursive;
+    background-color: black;
+    color: aliceblue;
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+}
+
+#bloque{
+    background-color: aliceblue;
+    color:black
+    
+}
